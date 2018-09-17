@@ -10,6 +10,10 @@ end
 gem 'rails', '~> 5.2.0'
 # Use sqlite3 as the database for Active Record
 gem 'devise'
+
+# Install webpacker because going to use AngularJS
+gem 'webpacker'
+
 gem 'twitter-bootstrap-rails'
 gem 'jquery-rails'
 gem 'devise-bootstrap-views'
